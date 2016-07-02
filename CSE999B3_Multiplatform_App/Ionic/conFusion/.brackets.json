@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/Coursera/Multiplatform_Mobile_App_Development/Ionic/conFusion/plugins/cordova-plugin-console/www/logger.js",
+        "D:/Coursera/Multiplatform_Mobile_App_Development/Ionic/conFusion/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "D:/Coursera/Multiplatform_Mobile_App_Development/Ionic/conFusion/www/js/app.js",
+        "D:/Coursera/CSE999B3_Multiplatform_App/Ionic/conFusion/plugins/cordova-plugin-console/www/logger.js",
+        "D:/Coursera/CSE999B3_Multiplatform_App/Ionic/conFusion/platforms/android/assets/www/lib/ngCordova/dist/ng-cordova.min.js"
+    ]
+}
